@@ -21,12 +21,12 @@ Enhance hospital operations and improve decision-making efficiency through data 
 
 4. Features & Highlights
 
-Dynamic Visuals: Interactive cards for KPIs like total patients, average wait time, satisfaction rate, and referral count.
-Performance Metrics: Tracks % of patients seen within 30 minutes and average waiting times.
-Demographic Insights: Visualizes patient data by age group, gender, and race.
-Referral Analysis: Shows patient referrals by department to identify key contributors.
-Time-Based Patterns: Highlights daily and hourly patient inflow trends.
-Monthly & Consolidated Views: Easy navigation between detailed monthly reports and yearly summaries using buttons.
+ Dynamic Visuals: Interactive cards for KPIs like total patients, average wait time, satisfaction rate, and referral count.
+ Performance Metrics: Tracks % of patients seen within 30 minutes and average waiting times.
+ Demographic Insights: Visualizes patient data by age group, gender, and race.
+ Referral Analysis: Shows patient referrals by department to identify key contributors.
+ Time-Based Patterns: Highlights daily and hourly patient inflow trends.
+ Monthly & Consolidated Views: Easy navigation between detailed monthly reports and yearly summaries using buttons.
 
 5. Dashboard Walkthrough
    
