@@ -12,14 +12,14 @@ Identify peak hours and demographic patterns in patient visits.
 Reduce average wait times and missed target cases.
 Improve patient satisfaction and service quality using data insights.
 
-4. Goal of the Dashboard
+3. Goal of the Dashboard
 The primary goal is to:
 Track key ER metrics like number of patients, wait time, satisfaction rate, and referral data.
 Visualize trends by age, gender, race, and department to understand patient demographics.
 Analyze time-based trends to optimize staffing and resource allocation.
 Enhance hospital operations and improve decision-making efficiency through data visualization.  
 
-5. Features & Highlights
+4. Features & Highlights
 
 Dynamic Visuals: Interactive cards for KPIs like total patients, average wait time, satisfaction rate, and referral count.
 Performance Metrics: Tracks % of patients seen within 30 minutes and average waiting times.
