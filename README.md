@@ -5,30 +5,31 @@ It focuses on patient flow, wait times, satisfaction, demographics, and referral
 
 2. Purpose:
 To optimize hospital operations by reducing patient wait times, improving satisfaction, and enabling data-based decisions for better healthcare service management.
- Business Problem
-   Hospitals often struggle to:
-   Monitor real-time patient admissions and referrals effectively.
-   Identify peak hours and demographic patterns in patient visits. 
-   Reduce average wait times and missed target cases.
-   Improve patient satisfaction and service quality using data insights.
+Business Problem
+Hospitals often struggle to:
+Monitor real-time patient admissions and referrals effectively.
+Identify peak hours and demographic patterns in patient visits.
+Reduce average wait times and missed target cases.
+Improve patient satisfaction and service quality using data insights.
 
-3. Goal of the Dashboard
+4. Goal of the Dashboard
 The primary goal is to:
 Track key ER metrics like number of patients, wait time, satisfaction rate, and referral data.
 Visualize trends by age, gender, race, and department to understand patient demographics.
 Analyze time-based trends to optimize staffing and resource allocation.
 Enhance hospital operations and improve decision-making efficiency through data visualization.  
 
-4. Features & Highlights
+5. Features & Highlights
 
- Dynamic Visuals: Interactive cards for KPIs like total patients, average wait time, satisfaction rate, and referral count.
- Performance Metrics: Tracks % of patients seen within 30 minutes and average waiting times.
- Demographic Insights: Visualizes patient data by age group, gender, and race.
- Referral Analysis: Shows patient referrals by department to identify key contributors.
- Time-Based Patterns: Highlights daily and hourly patient inflow trends.
- Monthly & Consolidated Views: Easy navigation between detailed monthly reports and yearly summaries using buttons.
+Dynamic Visuals: Interactive cards for KPIs like total patients, average wait time, satisfaction rate, and referral count.
+Performance Metrics: Tracks % of patients seen within 30 minutes and average waiting times.
+Demographic Insights: Visualizes patient data by age group, gender, and race.
+Referral Analysis: Shows patient referrals by department to identify key contributors.
+Time-Based Patterns: Highlights daily and hourly patient inflow trends.
+Monthly & Consolidated Views: Easy navigation between detailed monthly reports and yearly summaries using buttons.
 
 5. Dashboard Walkthrough
+   
 1️⃣ Monthly View
 
 Shows a snapshot of hospital performance for a specific month.
